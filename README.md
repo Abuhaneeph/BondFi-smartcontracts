@@ -159,13 +159,12 @@ contracts/
 
 scripts/
 ├── deploy-saving-lisk.js                   # Lisk deployment
-├── deploy-saving-mantle.js                 # Mantle deployment
-└── deploy-merchant-system.js               # Merchant system deployment
+└── deploy-saving-mantle.js                 # Mantle deployment
+
 
 test/
 ├── Saving.test.js                          # Core savings tests
-├── MultiCurrency.test.js                   # Multi-currency tests
-└── Merchant.test.js                        # Merchant system tests
+
 ```
 
 ## 🚀 Getting Started
