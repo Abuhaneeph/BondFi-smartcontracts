@@ -147,7 +147,7 @@ test/
 ### Installation
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Abuhaneeph/BondFi-smartcontracts.git
 cd BondFi-Smart-Contract
 npm install
 ```
