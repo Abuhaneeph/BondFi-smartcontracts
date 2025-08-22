@@ -1,0 +1,66 @@
+{
+  "network": "lisk-sepolia",
+  "timestamp": "2025-08-20T17:23:51.857Z",
+  "contracts": {
+    "rotationalSaving": "0xea8e16c56705Bb5f073854e9924e525b59584F0D",
+    "multiCurrencyWrapper": "0x05465d54087c91d2B549047270334a6727BF2Ba2",
+    "swapContract": "0xdf4381E3D3D040575f297F7478BD5D71ca97Aeac",
+    "libraries": {
+      "agentManagement": "0x6E578037eeEE20dd242dBeEa4A5CB1d9f9b4BfB8",
+      "groupManagement": "0xebfF5BAFE9062536a5baf8DB7B852964c65A19c2",
+      "viewFunctions": "0xaB39618695d9De35F512041BEC635D0fac063C6E"
+    }
+  },
+  "configuration": {
+    "defaultUSDT": "0x88a4e1125FF42e0010192544EAABd78Db393406e",
+    "supportedTokens": [
+      {
+        "address": "0x88a4e1125FF42e0010192544EAABd78Db393406e",
+        "symbol": "USDT",
+        "name": "Tether USD"
+      },
+      {
+        "address": "0xa01ada077F5C2DB68ec56f1a28694f4d495201c9",
+        "symbol": "WETH",
+        "name": "Wrapped Ethereum"
+      },
+      {
+        "address": "0x207d9E20755fEe1924c79971A3e2d550CE6Ff2CB",
+        "symbol": "AFR",
+        "name": "AfriRemit"
+      },
+      {
+        "address": "0xc5737615ed39b6B089BEDdE11679e5e1f6B9E768",
+        "symbol": "AFX",
+        "name": "AfriStable"
+      },
+      {
+        "address": "0x278ccC9E116Ac4dE6c1B2Ba6bfcC81F25ee48429",
+        "symbol": "cNGN",
+        "name": "Crypto Naira"
+      },
+      {
+        "address": "0x1255C3745a045f653E5363dB6037A2f854f58FBf",
+        "symbol": "cGHS",
+        "name": "Crypto Ghanaian Cedi"
+      },
+      {
+        "address": "0x19a8a27E066DD329Ed78F500ca7B249D40241dC4",
+        "symbol": "cZAR",
+        "name": "Crypto South African Rand"
+      },
+      {
+        "address": "0x291ca1891b41a25c161fDCAE06350E6a524068d5",
+        "symbol": "cKES",
+        "name": "Crypto Kenyan Shilling"
+      }
+    ]
+  },
+  "testing": {
+    "signersAvailable": 1,
+    "usersRegistered": 1,
+    "ajoAgentRegistered": true,
+    "trustContractSet": false,
+    "groupCreated": false
+  }
+}
