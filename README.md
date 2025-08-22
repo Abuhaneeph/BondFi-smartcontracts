@@ -65,7 +65,7 @@ The BondFi ecosystem consists of interconnected smart contracts that work togeth
 
 **Supported Currencies:**
 ```solidity
-// Example supported tokens
+// Example supported tokens (Stablecoins/ global tokens) 
 USDT - Tether USD (Base currency)
 WETH - Wrapped Ethereum  
 AFR - AfriRemit
@@ -327,7 +327,6 @@ await merchantCore.purchaseProductWithInstallments(
 - **Payment Validation**: Multi-step payment verification
 - **Installment Protection**: Credit checks and penalty systems
 
- |
 
 ## 📊 Contract Addresses
 
@@ -339,6 +338,10 @@ Swap Contract: 0x013b0CA4E4559339F43682B7ac05479eD48E694f
 USDT: 0x6765e788d5652E22691C6c3385c401a9294B9375
 Price Feed: 0xF34EC7483183b0B50E7b50e538ADd13De231eD9b
 Multi-Currency Saving: 0x63e5A563F9b4009cbf61EDFcc85f883dbd1b833A
+Merchant Core: 0xD182cBE8f2C03d230fcc578811CAf591BFB24e99
+MERCHANT_REGISTRY: 0xE29f69cCeC803F9089A0358d2e3B47118323104d
+INSTALLMENT_MANAGER: 0x3d19CE4dd54f5CBc54CFf6bc0B4430Ce6Fd00bE3
+PRODUCT_CATALOG: 0xd14f93aE3ae06Bb5d36684C672702e7F5a3D4B6E
 ```
 
 ## 🤝 Contributing
