@@ -1,6 +1,6 @@
 # BondFi Smart Contract Suite
 
-BondFi is a comprehensive decentralized platform for rotational savings, agent management, and merchant installment contracts, designed to empower communities and merchants with secure, flexible financial tools on Ethereum-compatible blockchains.
+BondFi is a comprehensive decentralized platform for rotational savings, agent management, and merchant installment contracts, designed to empower communities and merchants with secure, flexible financial tools on Mantle Network.
 
 ## 🌟 Overview
 
@@ -209,10 +209,6 @@ npx hardhat compile
 npx hardhat run scripts/deploy-saving-mantle.js --network mantleSeplia
 ```
 
-#### Merchant System
-```bash
-npx hardhat run scripts/deploy-merchant-system.js --network <network>
-```
 
 ### Testing
 
@@ -220,10 +216,6 @@ npx hardhat run scripts/deploy-merchant-system.js --network <network>
 # Run all tests
 npx hardhat test
 
-# Test specific contracts
-npx hardhat test test/Saving.test.js
-npx hardhat test test/MultiCurrency.test.js
-npx hardhat test test/Merchant.test.js
 ```
 
 ## 🎯 Usage Examples
