@@ -1,6 +1,6 @@
 # BondFi Smart Contract Suite
 
-BondFi is a comprehensive decentralized platform for rotational savings, agent management, and merchant installment contracts, designed to empower communities and merchants with secure, flexible financial tools on Mantle Network.
+BondFi is a decentralized finance (DeFi) platform that merges traditional African community savings practices (Ajo/Esusu/ROSCAs) with modern blockchain technology. Built on Mantle Sepolia, it enables users to join automated rotating savings circles, access installment-based commerce at partner merchants, and manage finances across multiple stablecoins. Powered by Chainlink price feeds and on-chain credit scoring, BondFi also integrates AI-driven financial insights and recommendations, making it a truly borderless ROSCA ecosystem
 
 ## 🌟 Overview
 
